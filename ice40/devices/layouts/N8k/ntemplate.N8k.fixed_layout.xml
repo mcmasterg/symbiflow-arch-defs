@@ -6,7 +6,7 @@
  -->
  <col     type="EMPTY"          startx="0"  priority="30"/>
  <col     type="BLK_TL-PIO_L"   startx="1"  priority="10"/>
- <region  type="BLK_TL-PLB"     startx="2" endx="33" starty="2" endy="33" priority="4"/> <!-- Logic blocks 31x31 -->
+ <region  type="BLK_TL-PLB"     startx="2" endx="33" starty="2" endy="33" priority="4"/> <!-- Logic blocks 32x32 -->
  <col     type="BLK_TL-PIO_R"   startx="34" priority="10"/>
  <col     type="EMPTY"          startx="35" priority="30"/>
 
